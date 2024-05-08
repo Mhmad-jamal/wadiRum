@@ -268,12 +268,31 @@
         You will travel to Ain Abu Aineh, also referred to as Lawrence Spring, the Red Sand Dune, and Khazali Canyon in the morning to witness the petroglyphs and inscriptions that date back thousands of years. You will go to the Lawrence House and Small Arch, both of which offer breathtaking views of a picturesque valley. Your tour guide will provide a prepared lunch for you to eat in the shade at noon. Afternoon excursions include Mushroom Rock and a stroll through Abu Khashaba Canyon, followed by stops at Um Fruth Rock Bridge and Um Sabatah for sunset.
         
         At each location, you have plenty of time to go about, take pictures, climb rocks, and sample Bedouin tea. A sip of Bedouin tea and a glimpse of the sun setting over Um Sabatah valley mark the end of the journey</p>
-   
+        <div class="mb-4">
+        <h4>PRICE:</h4>
+        <ul style="list-style-type: none;">
+            <li>50 JOD per person - 2 people</li>
+            <li>40 JOD per person - 3-4 people</li>
+            <li>30 JOD per person - 5-6 people</li>
+        </ul>
+    </div>
+
+    <div class="mb-4">
+        <h4>INCLUDES:</h4>
+        <ul style="list-style-type: none;">
+            <li>Full day jeep tour, visiting the 10 most famous places of the desert with little hikes</li>
+            <li>Bedouin tea and water</li>
+            <li>Transportation</li>
+            <li>Lunch cooked in desert</li>
+            <li>Sunset watching</li>
+        </ul>
+    </div>
     </div>
     <div class="overflow-hidden" >
       <div class="container px-5">
         <img src="img/tour4.jpeg" class=" border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
       </div>
+     
     </div>
   </div>
 
@@ -333,7 +352,7 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Wadi Rum Activities</h6>
-                <h1 class="mb-5">Experience Wadi Rum</h1>
+                <h6 class="mb-5">Explore the desert at a slower pace and transport yourself back in time to the days of the ancient Arabian silk road caravans with a short camel ride, or a longer camel tour!</h6>
             </div>
             <div class="row g-4 justify-content-center align-items-stretch">
                 <!-- Camel Riding Start-->
@@ -344,11 +363,12 @@
                         </div>
                         <div class="d-flex border-bottom">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt text-primary me-2"></i>Wadi Rum</small>
-                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>1 day</small>
-                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>2 Person</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>1 Hour</small>
+
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>1 Person</small>
                         </div>
                         <div class="text-center p-4" style="height: 400px;">
-                            <h3 class="mb-0">$50.00</h3>
+                            <h3 class="mb-0">20.00-JOD</h3>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
@@ -364,21 +384,21 @@
                         </div>
                     </div>
                 </div>
-                <!-- Camel Riding End-->
-    
-                <!-- Jeep Safari Start-->
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+              
+               
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="package-item h-100">
                         <div class="overflow-hidden text-center">
-                            <img class="w-100 package-img" src="img/jeepsafari.jpg" alt="Jeep Safari" width="300" height="300">
+                            <img class="w-100 package-img" src="img/camel2.jpg" alt="Camel Riding" width="300" height="300">
                         </div>
                         <div class="d-flex border-bottom">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt text-primary me-2"></i>Wadi Rum</small>
-                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>1 day</small>
-                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>4 Person</small>
+                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>2 Hour</small>
+
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>1 Person</small>
                         </div>
                         <div class="text-center p-4" style="height: 400px;">
-                            <h3 class="mb-0">$150.00</h3>
+                            <h3 class="mb-0">30.00-JOD</h3>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
@@ -386,7 +406,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <p>Explore the vast desert landscape of Wadi Rum on an exciting jeep safari.</p>
+                            <p>Experience the traditional way of exploring Wadi Rum on a camel.</p>
                             <div class="d-flex justify-content-center mb-2">
                                 <a href="#" class="btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
                                 <a href="#" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
@@ -394,36 +414,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- Jeep Safari End-->
-    
-                <!-- Hiking and Trekking Start-->
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="package-item h-100">
-                        <div class="overflow-hidden text-center">
-                            <img class="w-100 package-img" src="img/hiking.jpg" alt="Hiking and Trekking" width="300" height="300">
-                        </div>
-                        <div class="d-flex border-bottom">
-                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt text-primary me-2"></i>Wadi Rum</small>
-                            <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>1 day</small>
-                            <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>1 Person</small>
-                        </div>
-                        <div class="text-center p-4" style="height: 400px;">
-                            <h3 class="mb-0">$80.00</h3>
-                            <div class="mb-3">
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                            </div>
-                            <p>Embark on an adventurous hiking and trekking journey through Wadi Rum's canyons and mountains.</p>
-                            <div class="d-flex justify-content-center mb-2">
-                                <a href="#" class="btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
-                                <a href="#" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>     
+              
             </div>
         </div>
     </div>

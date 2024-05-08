@@ -89,6 +89,25 @@
                 <h6 class="section-title bg-white text-start text-primary pe-3"></h6>
                 <h1 class="mb-4">Jebel Al-Hash - <span class="text-primary">Hiking Tour</span></h1>
                 <p class="mb-4">Jebel Al-Hash is a beautiful mountain ridge at the edge of the Wadi Rum Protected Area. The mountain has spectacular panoramic views extending over Wadi Rum and the border of Saudi Arabia. Your day will start with a scenic drive across the desert to the base of the Al-Hash mountain range. The hike begins with a short scramble up the mountain to the top of the rocky ridge. We will continue walking along the ridge for a few hours enjoying the incredible views. You can look out over the entire desert extending to the edge of the Protected Area. This is an easy to moderate hike and takes around 3 hours. Once we descend back down the mountain, we will enjoy lunch in the shade. In the afternoon, we will continue by 4×4 to visit Um Fruth Rock Bridge and Small Arch before returning to Wadi Rum Village. You’ll be treated to a delicious lunch cooked over the fire in the shade where you can take a break for an hour and rest with a Bedouin tea.</p>
+                <div class="mb-4">
+        <h4>PRICE:</h4>
+        <ul>
+            <li>60 JOD - 2 Persons</li>
+            <li>50 JOD - 3-6 Persons</li>
+            <li>40 JOD - 7-10 Persons</li>
+        </ul>
+    </div>
+
+    <div class="mb-4">
+        <h4>INCLUDES:</h4>
+        <ul>
+            <li>Local English Speaking Guide</li>
+            <li>Lunch in the desert</li>
+            <li>Bedouin Tea</li>
+            <li>Bottles of Water</li>
+        </ul>
+    </div>
+</div>
             </div>
         </div>
     </div>

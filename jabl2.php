@@ -95,6 +95,26 @@
                  Your day will start with a scenic drive across the desert to the base of the Jebel Um Ad Dami. The hike begins with a steady walk up a desert valley, becoming steeper at the mountainside.  You will follow the mountain trail to the summit for spectacular views. Enjoy a rest at the top, before returning back down. This hike is not particularly difficult, taking about two hours to the summit and one hour to descend
                  Once we head back down the mountain, we will enjoy lunch in the shade. In the afternoon, we will continue by 4×4 to visit some of the most beautiful places in Wadi Rum.
                 </p>
+                <p class="mb-4">
+        Jabel Um Ad Dami is the highest peak in Jordan (1854 meters above sea level) and is located close to the border of Saudi Arabia. This is a fantastic hike with panoramic views at the summit.    
+
+        Your day will start with a scenic drive across the desert to the base of Jebel Um Ad Dami. The hike begins with a steady walk up a desert valley, becoming steeper at the mountainside. You will follow the mountain trail to the summit for spectacular views. Enjoy a rest at the top before returning back down. This hike is not particularly difficult, taking about two hours to reach the summit and one hour to descend.
+
+        Once we head back down the mountain, we will enjoy lunch in the shade. In the afternoon, we will continue by 4×4 to visit some of the most beautiful places in Wadi Rum.
+
+        Beginning at 9 am, you'll be driven to the starting point by your local Bedouin guide who will lead your way across the mountain, taking about 3 hours in total. Stay hydrated with free cold water provided and relax in the shade after with lunch cooked over a fire.
+    </p>
+
+    <div class="mb-4">
+        <h4>PRICE:</h4>
+        <ul>
+            <li>120 JOD - 1 Person</li>
+            <li>75 JOD - 2 Persons</li>
+            <li>60 JOD - 3-4 Persons</li>
+            <li>50 JOD - 5-6 Persons</li>
+        </ul>
+        <p>Price is per person.</p>
+    
             </div>
         </div>
     </div>
