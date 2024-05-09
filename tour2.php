@@ -60,16 +60,11 @@
         include('nav.php');
         ?>
         </div>
-        <div class="container-fluid bg-primary py-1 mb-5 hero-header">
-            <div class="container py-5">
-                <div class="row justify-content-center py-5">
+        <div class="container-fluid bg-dark ">
+            <div class="container ">
+                <div class="row justify-content-center">
                     <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
-                        <h1 class="display-3 text-white animated slideInDown">Jeep Tours </h1>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb justify-content-center">
-                                <li class="breadcrumb-item text-white active" aria-current="page"></li>
-                            </ol>
-                        </nav>
+                     
                     </div>
             </div>
     </div>
@@ -95,7 +90,7 @@
                 we will return you to the village of Wadi Rum.</p>
                 <div class="mb-4">
         <h4>PRICE:</h4>
-       <p>Start From 15 JOD </p>
+       <p>Start From 15,00 JOD </p>
     </div>
 
   

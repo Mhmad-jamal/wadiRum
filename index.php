@@ -376,7 +376,7 @@
 
                             <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>1 Person</small>
                         </div>
-                        <div class="text-center p-4" style="height: 400px;">
+                        <div class="text-center p-4" style="height: 250px;">
                             <h3 class="mb-0">20.00-JOD</h3>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
@@ -386,10 +386,7 @@
                                 <small class="fa fa-star text-primary"></small>
                             </div>
                             <p>Experience the traditional way of exploring Wadi Rum on a camel.</p>
-                            <div class="d-flex justify-content-center mb-2">
-                                <a href="#" class="btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
-                                <a href="#" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -406,7 +403,7 @@
 
                             <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>1 Person</small>
                         </div>
-                        <div class="text-center p-4" style="height: 400px;">
+                        <div class="text-center p-4" style="height: 250px;">
                             <h3 class="mb-0">30.00-JOD</h3>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
@@ -416,10 +413,7 @@
                                 <small class="fa fa-star text-primary"></small>
                             </div>
                             <p>Experience the traditional way of exploring Wadi Rum on a camel.</p>
-                            <div class="d-flex justify-content-center mb-2">
-                                <a href="#" class="btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
-                                <a href="#" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
