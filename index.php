@@ -223,7 +223,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="img/h1.jpeg" class="card-img-top  " height="300" alt="...">
+                        <img src="img/tour1.jpeg" class="card-img-top  " height="300" alt="...">
                         <div class="card-body d-flex flex-column justify-content-between">
                             <h5 class="card-title">2-hours Jeep Tour</h5>
                             <p class="card-text">The 2-hours jeep tour begins from the village of Wadi Rum
@@ -260,7 +260,7 @@
                 
             </div>
         </div>
-        <div class="px-4 pt-5 my-5 text-center border-bottom wow fadeInDown">
+        <div class=" pt-5 my-5 text-center border-bottom wow fadeInDown">
     <h1 class="display-4 fw-bold">FULL DAY JEEP TOUR</h1>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">VISIT THE DESERT FOR A DAY
@@ -269,7 +269,7 @@
        
     </div>
     <div class="overflow-hidden" >
-      <div class="container px-5">
+      <div class="container ">
         <img src="img/tour4.jpeg" class=" border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
         <a href="full.php" class="btn btn-primary align-self-center">Details</a>
 
