@@ -320,7 +320,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="img/h1.jpeg" class="card-img-top  " height="300" alt="...">
+                        <img src="img/h1New.jpeg" class="card-img-top  " height="300" alt="...">
                         <div class="card-body d-flex flex-column justify-content-between">
                             <h5 class="card-title">Jebel Al-Hash Hiking Tour</h5>
                             <p class="card-text">Jebel Al-Hash is a beautiful mountain ridge at the edge of the Wadi Rum Protected Area. The mountain has spectacular panoramic views extending over Wadi Rum and the border of Saudi Arabia.</p>
