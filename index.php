@@ -125,84 +125,7 @@
     <!-- About End -->
 
  <!-- Service Start -->
- <div class="container-xxl py-5 overflow-hidden">
-    <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title bg-white text-center text-primary px-3">Wadi Rum Activities</h6>
-            <h1 class="mb-5">Experience Wadi Rum</h1>
-        </div>
 
-        <!-- Camel Riding Start-->
-        <div class="row g-4">
-            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
-                    <div class="p-4">
-                        <i class="fa fa-3x fa-dragon fas fa-camel text-primary mb-4"></i>
-                        <h5>Camel Riding</h5>
-                        <p>Experience the traditional way of exploring Wadi Rum on a camel.</p>
-                    </div>
-                    <div class="mt-auto">
-                        <center>
-                            <a class="btn btn-primary py-3 px-5 mt-2" href="camel-riding-wadi-rum.html">Read More</a>
-                        </center>
-                    </div>
-                </div>
-            </div>
-            <!-- Camel Riding End-->
-
-            <!-- Jeep Safari Start-->
-            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
-                    <div class="p-4">
-                        <i class="fa fa-3x fa-dragon fas fa-truck-pickup text-primary mb-4"></i>
-                        <h5>Jeep Safari</h5>
-                        <p>Explore the vast desert landscape of Wadi Rum on an exciting jeep safari.</p>
-                    </div>
-                    <div class="mt-auto">
-                        <center>
-                            <a class="btn btn-primary py-3 px-5 mt-2" href="jeep-safari-wadi-rum.html">Read More</a>
-                        </center>
-                    </div>
-                </div>
-            </div>
-            <!-- Jeep Safari End-->
-
-            <!-- Hiking and Trekking Start-->
-            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
-                    <div class="p-4">
-                        <i class="fa fa-3x fa-dragon fas fa-hiking text-primary mb-4"></i>
-                        <h5>Hiking and Trekking</h5>
-                        <p>Embark on an adventurous hiking and trekking journey through Wadi Rum's canyons and mountains.</p>
-                    </div>
-                    <div class="mt-auto">
-                        <center>
-                            <a class="btn btn-primary py-3 px-5 mt-2" href="hiking-trekking-wadi-rum.html">Read More</a>
-                        </center>
-                    </div>
-                </div>
-            </div>     
-            <!-- Hiking and Trekking End-->
-            
-            <!-- Rock Climbing Start-->
-            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
-                    <div class="p-4">
-                        <i class="fa fa-3x fa-dragon fas fa-mountain text-primary mb-4"></i>
-                        <h5>Rock Climbing</h5>
-                        <p>Challenge yourself with thrilling rock climbing adventures in Wadi Rum's stunning rock formations.</p>
-                    </div>
-                    <div class="mt-auto">
-                        <center>
-                            <a class="btn btn-primary py-3 px-5 mt-2" href="rock-climbing-wadi-rum.html">Read More</a>
-                        </center>
-                    </div>
-                </div>
-            </div>
-            <!-- Rock Climbing End-->
-        </div>
-    </div>
-</div>
 
 
 
@@ -279,35 +202,6 @@
   </div>
     </div>
 
-    <div class="pt-5 my-5 text-center border-bottom wow fadeInDown">
-  <h1 class="display-4 fw-bold">Camping</h1>
-  <div class="col-lg-6 mx-auto">
-    <p class="lead mb-4">What better way to experience the desert than by spending a night sleeping under the stars?
-
-    Choose from a cosy cave in the colder months or on top of a sand dune in the summer. Your guide will set up the camping location with mattresses, blankets, pillows, sleeping bags and a camp fire.
-
-    Your guide will also cook you a traditional dinner like kapse (rice and chicken) or saniya (potatoes, vegetables and chicken) served with salad and bread.
-
-    After dinner, you will spend the night deep in the desert, stargazing and drinking tea around the campfire </p>
-  </div>
-  <div class="row justify-content-center">
-    <div class="col-md-4 col-sm-6">
-      <img src="img/1.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
-    </div>
-    <div class="col-md-4 col-sm-6">
-      <img src="img/2.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
-    </div>
-    <div class="col-md-4 col-sm-6">
-      <img src="img/3.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
-    </div>
-    <div class="col-md-6 col-sm-6">
-      <img src="img/4.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
-    </div>
-    <div class="col-md-6 col-sm-6">
-      <img src="img/6.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
-    </div>
-  </div>
-</div>
 
 
     <!-- Destination Start -->
@@ -351,8 +245,108 @@
             </div>
         </div>
     </div>
+
+    <div class="pt-5 my-5 text-center border-bottom wow fadeInDown">
+  <h1 class="display-4 fw-bold">Camping</h1>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead mb-4">What better way to experience the desert than by spending a night sleeping under the stars?
+
+    Choose from a cosy cave in the colder months or on top of a sand dune in the summer. Your guide will set up the camping location with mattresses, blankets, pillows, sleeping bags and a camp fire.
+
+    Your guide will also cook you a traditional dinner like kapse (rice and chicken) or saniya (potatoes, vegetables and chicken) served with salad and bread.
+
+    After dinner, you will spend the night deep in the desert, stargazing and drinking tea around the campfire </p>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-md-4 col-sm-6">
+      <img src="img/1.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <img src="img/2.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <img src="img/3.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-6 col-sm-6">
+      <img src="img/4.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-6 col-sm-6">
+      <img src="img/6.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+  </div>
+</div>
+
     
-    
+    <div class="container-xxl py-5 overflow-hidden">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Wadi Rum Activities</h6>
+            <h1 class="mb-5">Experience Wadi Rum</h1>
+        </div>
+
+        <!-- Camel Riding Start-->
+        <div class="row g-4">
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-dragon fas fa-camel text-primary mb-4"></i>
+                        <h5>Camel Riding</h5>
+                        <p>Experience the traditional way of exploring Wadi Rum on a camel.</p>
+                    </div>
+                    <div class="mt-auto">
+                      
+                    </div>
+                </div>
+            </div>
+            <!-- Camel Riding End-->
+
+            <!-- Jeep Safari Start-->
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-dragon fas fa-truck-pickup text-primary mb-4"></i>
+                        <h5>Jeep Safari</h5>
+                        <p>Explore the vast desert landscape of Wadi Rum on an exciting jeep safari.</p>
+                    </div>
+                    <div class="mt-auto">
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- Jeep Safari End-->
+
+            <!-- Hiking and Trekking Start-->
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-dragon fas fa-hiking text-primary mb-4"></i>
+                        <h5>Hiking and Trekking</h5>
+                        <p>Embark on an adventurous hiking and trekking journey through Wadi Rum's canyons and mountains.</p>
+                    </div>
+                    <div class="mt-auto">
+                       
+                    </div>
+                </div>
+            </div>     
+            <!-- Hiking and Trekking End-->
+            
+            <!-- Rock Climbing Start-->
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="service-item rounded pt-3 h-100 d-flex flex-column">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-dragon fas fa-mountain text-primary mb-4"></i>
+                        <h5>Rock Climbing</h5>
+                        <p>Challenge yourself with thrilling rock climbing adventures in Wadi Rum's stunning rock formations.</p>
+                    </div>
+                    <div class="mt-auto">
+                      
+                    </div>
+                </div>
+            </div>
+            <!-- Rock Climbing End-->
+        </div>
+    </div>
+</div>
     <!-- Destination Start -->
 
 
@@ -426,67 +420,6 @@
     <!-- Package End -->
 
 
-    <!-- Booking Start -->
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="booking p-5">
-                <div class="row g-5 align-items-center">
-                    <div class="col-md-6 text-white">
-                        <h6 class="text-white text-uppercase">Plan Your Wadi Rum Adventure</h6>
-                        <h1 class="text-white mb-4">Online Booking</h1>
-                        <p class="mb-4">Plan your Wadi Rum adventure with us! Whether you're interested in a day trip, overnight camping, or an adrenaline-fueled off-road adventure, we've got you covered. Explore the wonders of Wadi Rum and book your desert experience today.</p>
-                        <a class="btn btn-outline-light py-3 px-5 mt-2" href="">Read More</a>
-                    </div>
-                    <div class="col-md-6">
-                        <h1 class="text-white mb-4">Book Your Wadi Rum Tour</h1>
-                        <form>
-                            <div class="row g-3">
-                                <div class="col-md-6">
-                                    <div class="form-floating">
-                                        <input type="text" class="form-control bg-transparent" id="name" placeholder="Your Name">
-                                        <label for="name">Your Name</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-floating">
-                                        <input type="email" class="form-control bg-transparent" id="email" placeholder="Your Email">
-                                        <label for="email">Your Email</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-floating date" id="date3" data-target-input="nearest">
-                                        <input type="text" class="form-control bg-transparent datetimepicker-input" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
-                                        <label for="datetime">Date & Time</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-floating">
-                                        <select class="form-select bg-transparent" id="select1">
-                                            <option value="1">Day Trip</option>
-                                            <option value="2">Overnight Camping</option>
-                                            <option value="3">Off-road Adventure</option>
-                                        </select>
-                                        <label for="select1">Choose Your Adventure</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-floating">
-                                        <textarea class="form-control bg-transparent" placeholder="Special Request" id="message" style="height: 100px"></textarea>
-                                        <label for="message">Special Request</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <button class="btn btn-outline-light w-100 py-3" type="submit">Book Now</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <!-- Booking Start -->
 
 
     <!-- Process Start -->
@@ -631,15 +564,80 @@
             </div>
         </div>
     </div>
-    
+    <div class="container">
+  <div class="row justify-content-center">
+    <div id="TA_selfserveprop979" class="TA_selfserveprop d-flex justify-content-center"><ul id="SRb0WoQRU1s" class="TA_links IsR0pO"><li id="mlvND2y" class="gzOaosmW"><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g12908257-d16765520-Reviews-Wadi_Rum_Full_Experience-Wadi_Rum_Village_Wadi_Rum_Al_Aqabah_Governorate.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/v2/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg" alt="TripAdvisor"/></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=979&amp;locationId=16765520&amp;lang=en_US&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=true&amp;border=true&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+  </div>
+</div>
     <!-- Testimonial End -->
         
+    <!-- Booking Start -->
+    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="booking p-5">
+                <div class="row g-5 align-items-center">
+                    <div class="col-md-6 text-white">
+                        <h6 class="text-white text-uppercase">Plan Your Wadi Rum Adventure</h6>
+                        <h1 class="text-white mb-4">Online Booking</h1>
+                        <p class="mb-4">Plan your Wadi Rum adventure with us! Whether you're interested in a day trip, overnight camping, or an adrenaline-fueled off-road adventure, we've got you covered. Explore the wonders of Wadi Rum and book your desert experience today.</p>
+                        <a class="btn btn-outline-light py-3 px-5 mt-2" href="">Read More</a>
+                    </div>
+                    <div class="col-md-6">
+                        <h1 class="text-white mb-4">Book Your Wadi Rum Tour</h1>
+                        <form>
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control bg-transparent" id="name" placeholder="Your Name">
+                                        <label for="name">Your Name</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control bg-transparent" id="email" placeholder="Your Email">
+                                        <label for="email">Your Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating date" id="date3" data-target-input="nearest">
+                                        <input type="text" class="form-control bg-transparent datetimepicker-input" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
+                                        <label for="datetime">Date & Time</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <select class="form-select bg-transparent" id="select1">
+                                            <option value="1">Day Trip</option>
+                                            <option value="2">Overnight Camping</option>
+                                            <option value="3">Off-road Adventure</option>
+                                        </select>
+                                        <label for="select1">Choose Your Adventure</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control bg-transparent" placeholder="Special Request" id="message" style="height: 100px"></textarea>
+                                        <label for="message">Special Request</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-outline-light w-100 py-3" type="submit">Book Now</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Booking Start -->
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Wadi Rum</h4>
                     <a class="btn btn-link" href="#">About Wadi Rum</a>
                     <a class="btn btn-link" href="#">Contact Wadi Rum</a>
@@ -647,11 +645,11 @@
                     <a class="btn btn-link" href="#">Terms & Condition</a>
                     <a class="btn btn-link" href="#">FAQs & Help</a>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Wadi Rum, Jordan</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@wadirum.com</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+962 776159136</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>wadirumjourney@gmail.com</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -659,37 +657,30 @@
                         <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Gallery</h4>
                     <div class="row g-2 pt-2">
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="img/package-1.jpg" alt="">
+                            <img class="img-fluid bg-light p-1" src="img/tour1New.jpeg" alt="">
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="img/package-2.jpg" alt="">
+                            <img class="img-fluid bg-light p-1" src="img/tour2New.jpeg" alt="">
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="img/package-3.jpg" alt="">
+                            <img class="img-fluid bg-light p-1" src="img/tour3New.jpeg" alt="">
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="img/package-2.jpg" alt="">
+                            <img class="img-fluid bg-light p-1" src="img/wadiRum1.jpg" alt="">
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="img/package-3.jpg" alt="">
+                            <img class="img-fluid bg-light p-1" src="img/wadiRum2.jpg" alt="">
                         </div>
                         <div class="col-4">
                             <img class="img-fluid bg-light p-1" src="img/package-1.jpg" alt="">
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <h4 class="text-white mb-3">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-                    <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
-                    </div>
-                </div>
+              
             </div>
         </div>
         <div class="container">
@@ -699,16 +690,9 @@
                         &copy; <a class="border-bottom" href="#">Wadi Rum Tourism</a>, All Right Reserved.
     
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a class="border-bottom" href="https://htmlcodex.com">SamTech Company</a>
+                        Designed By <a class="border-bottom" href="#">SamTech Company</a>
                     </div>
-                    <div class="col-md-6 text-center text-md-end">
-                        <div class="footer-menu">
-                            <a href="#">Home</a>
-                            <a href="#">Cookies</a>
-                            <a href="#">Help</a>
-                            <a href="#">FQAs</a>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>
