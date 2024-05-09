@@ -278,6 +278,38 @@
     </div>
   </div>
     </div>
+
+    <div class="pt-5 my-5 text-center border-bottom wow fadeInDown">
+  <h1 class="display-4 fw-bold">Camping</h1>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead mb-4">What better way to experience the desert than by spending a night sleeping under the stars?
+
+    Choose from a cosy cave in the colder months or on top of a sand dune in the summer. Your guide will set up the camping location with mattresses, blankets, pillows, sleeping bags and a camp fire.
+
+    Your guide will also cook you a traditional dinner like kapse (rice and chicken) or saniya (potatoes, vegetables and chicken) served with salad and bread.
+
+    After dinner, you will spend the night deep in the desert, stargazing and drinking tea around the campfire </p>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-md-4 col-sm-6">
+      <img src="img/1.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <img src="img/2.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <img src="img/3.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-6 col-sm-6">
+      <img src="img/4.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+    <div class="col-md-6 col-sm-6">
+      <img src="img/6.jpeg" class="border rounded-3 shadow-lg mb-4 img-fluid" alt="Example image" loading="lazy" style="width: 100%; height: 300px;">
+    </div>
+  </div>
+</div>
+
+
     <!-- Destination Start -->
     <div class="container-xxl py-5 destination">
         <div class="container">
