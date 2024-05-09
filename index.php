@@ -223,7 +223,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="img/tour1.jpeg" class="card-img-top  " height="300" alt="...">
+                        <img src="img/tour1New.jpeg" class="card-img-top  " height="300" alt="...">
                         <div class="card-body d-flex flex-column justify-content-between">
                             <h5 class="card-title">2-hours Jeep Tour</h5>
                             <p class="card-text">The 2-hours jeep tour begins from the village of Wadi Rum
@@ -234,7 +234,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="img/tour2.jpeg" class="card-img-top  " height="300" alt="...">
+                        <img src="img/tour2New.jpeg" class="card-img-top  " height="300" alt="...">
                         <div class="card-body d-flex flex-column justify-content-between">
                             <h5 class="card-title">3-hours Jeep Tour</h5>
                             <p class="card-text">
@@ -246,7 +246,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card h-100">
-                        <img src="img/tour3.jpeg" class="card-img-top  " height="300" alt="...">
+                        <img src="img/tour3New.jpeg" class="card-img-top  " height="300" alt="...">
                         <div class="card-body d-flex flex-column justify-content-between">
                             <h5 class="card-title">4-hours Jeep Tour</h5>
                             <p class="card-text">
@@ -270,7 +270,7 @@
     </div>
     <div class="overflow-hidden" >
       <div class="container ">
-        <img src="img/tour4.jpeg" class=" border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+        <img src="img/tour4New.jpeg" class=" border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
         <a href="full.php" class="btn btn-primary align-self-center">Details</a>
 
       </div>
