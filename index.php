@@ -203,104 +203,81 @@
         </div>
     </div>
 </div>
-<div class="container-xxl py-5 overflow-hidden">
-    <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title bg-white text-center text-primary px-3"> Our Trip Activities</h6>
-            <h1 class="mb-5"> Our Trip</h1>
-        </div>
 
-      
-    </div>
-</div>
-<div class="container col-xxl-8 px-4 py-5 overflow-hidden">
-    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-        <div class="col-lg-6 fade-in-right  wow fadeInRight">
-            <h1 class="display-5 fw-bold lh-1 mb-3">2-hours Jeep Tour</h1>
-            <p class="lead">     The 2-hours jeep tour begins from the village of Wadi Rum.
-                You will visit the most famous tourist areas and the most attractive to visitors.
-                We will go to the Nabataean Temple. After that, we will go to the Lawrence Spring,
-                where you can see the fresh water reserve that people use. It is surrounded by mountains. The tour continues to the red sand dunes, where you can hike and enjoy. With the view from above the desert, the tour continues to the Khazali Canyon, famous for its ancient inscriptions. After that,
-                we will return you to the village of Wadi Rum.  </p>
-           
-          </div>
-        <div class="col-10 col-sm-8 col-lg-6 wow fadeInLeft">
-        <img src="img/tour1.jpeg" class="d-block mx-lg-auto w-100" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
-      </div>
-   
-    </div>
-  </div>
-<div class="container col-xxl-8 px-4 py-5 overflow-hidden">
-    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-      <div class="col-10 col-sm-8 col-lg-6">
-        <img src="img/tour2.jpeg" class="d-block mx-lg-auto wow fadeInRight" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
-      </div>
-      <div class="col-lg-6 wow fadeInLeft">
-        <h1 class="display-5 fw-bold lh-1 mb-3 ">3-hours Jeep Tour</h1>
-        <p class="lead">On this short private jeep tour, you will have the opportunity to visit 
-            the most famous and most visited sites. We will drive you to the Nabataean Temple, Lawrence Spring, Khazali Dune, Khazali Valley, and Little Rock Bridge. You will also taste Bedouin tea in the middle of the desert and learn about the history of the region and local Bedouin culture. You can add to this tour a Bedouin-style meal and a short camel ride.
-            After that, we will return you to the village of Wadi Rum.</p>
-     
-      </div>
-    </div>
-  </div>
-  <div class="container col-xxl-8 px-4 py-5 overflow-hidden">
-    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-        <div class="col-lg-6 fade-in-right  wow fadeInRight">
-            <h1 class="display-5 fw-bold lh-1 mb-3">4-hours Jeep Tour</h1>
-            <p class="lead"> This 4-hours jeep tour gives you the opportunity to explore the most famous sites of the beautiful Wadi Rum Desert. We will use our open-back jeep to take you to Wadi Khazali and its ancient inscriptions, red sand dunes with stunning views of the desert, Lawrence Spring, Wadi Abu Khashaba, the Little Arch, and the Umm Farout rock bridge, both of which provide amazing photo opportunities. After that, we will return you to Qaryat. Wadi Rum
-            </p>
-           
-          </div>
-        <div class="col-10 col-sm-8 col-lg-6 wow fadeInLeft">
-        <img src="img/tour3.jpeg" class="d-block mx-lg-auto w-100" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
-      </div>
-   
-    </div>
-  </div>
 
-  <div class="px-4 pt-5 my-5 text-center border-bottom wow fadeInDown">
-    <h1 class="display-4 fw-bold">FULL DAY JEEP TOUR</h1>
-    <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">VISIT THE DESERT FOR A DAY
-        Explore Wadi Rum’s most beautiful locations. On this full-day, active trip of the desert in a 4×4, you will climb sand dunes and naturally occurring arches, look for old inscriptions, and explore picturesque valleys.
-        
-        You will travel to Ain Abu Aineh, also referred to as Lawrence Spring, the Red Sand Dune, and Khazali Canyon in the morning to witness the petroglyphs and inscriptions that date back thousands of years. You will go to the Lawrence House and Small Arch, both of which offer breathtaking views of a picturesque valley. Your tour guide will provide a prepared lunch for you to eat in the shade at noon. Afternoon excursions include Mushroom Rock and a stroll through Abu Khashaba Canyon, followed by stops at Um Fruth Rock Bridge and Um Sabatah for sunset.
-        
-        At each location, you have plenty of time to go about, take pictures, climb rocks, and sample Bedouin tea. A sip of Bedouin tea and a glimpse of the sun setting over Um Sabatah valley mark the end of the journey</p>
-        <div class="mb-4">
-        <h4>PRICE:</h4>
-        <ul style="list-style-type: none;">
-            <li>50 JOD per person - 2 people</li>
-            <li>40 JOD per person - 3-4 people</li>
-            <li>30 JOD per person - 5-6 people</li>
-        </ul>
-    </div>
 
-    <div class="mb-4">
-        <h4>INCLUDES:</h4>
-        <ul style="list-style-type: none;">
-            <li>Full day jeep tour, visiting the 10 most famous places of the desert with little hikes</li>
-            <li>Bedouin tea and water</li>
-            <li>Transportation</li>
-            <li>Lunch cooked in desert</li>
-            <li>Sunset watching</li>
-        </ul>
-    </div>
-    </div>
-    <div class="overflow-hidden" >
-      <div class="container px-5">
-        <img src="img/tour4.jpeg" class=" border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
-      </div>
-     
-    </div>
-  </div>
+  
+
+ 
 
 
 
 <!-- Service End -->
 
+<div class="container-xxl py-5 destination">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Jeep Tours</h6>
+                <h1 class="mb-5"></h1>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <img src="img/h1.jpeg" class="card-img-top  " height="300" alt="...">
+                        <div class="card-body d-flex flex-column justify-content-between">
+                            <h5 class="card-title">2-hours Jeep Tour</h5>
+                            <p class="card-text">The 2-hours jeep tour begins from the village of Wadi Rum
+                You will visit the most famous tourist areas and the most attractive to visitors.</p>
+                            <a href="tour2.php" class="btn btn-primary align-self-center">Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <img src="img/tour2.jpeg" class="card-img-top  " height="300" alt="...">
+                        <div class="card-body d-flex flex-column justify-content-between">
+                            <h5 class="card-title">3-hours Jeep Tour</h5>
+                            <p class="card-text">
+                            On this short private jeep tour, you will have the opportunity to visit the most famous and most visited sites
+                            </p>
+                            <a href="tour3.php" class="btn btn-primary align-self-center">Details</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <img src="img/tour3.jpeg" class="card-img-top  " height="300" alt="...">
+                        <div class="card-body d-flex flex-column justify-content-between">
+                            <h5 class="card-title">4-hours Jeep Tour</h5>
+                            <p class="card-text">
+                            This 4-hours jeep tour gives you the opportunity to explore the most famous sites of the beautiful Wadi Rum Desert.
+                            
+                            </p>
+                            <a href="tour4.php" class="btn btn-primary align-self-center">Details</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <div class="px-4 pt-5 my-5 text-center border-bottom wow fadeInDown">
+    <h1 class="display-4 fw-bold">FULL DAY JEEP TOUR</h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="lead mb-4">VISIT THE DESERT FOR A DAY
+        Explore Wadi Rum’s most beautiful locations. On this full-day, active trip of the desert in a 4×4, </p>
+        <div class="mb-4">
+       
+    </div>
+    <div class="overflow-hidden" >
+      <div class="container px-5">
+        <img src="img/tour4.jpeg" class=" border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+        <a href="full.php" class="btn btn-primary align-self-center">Details</a>
 
+      </div>
+     
+    </div>
+  </div>
+    </div>
     <!-- Destination Start -->
     <div class="container-xxl py-5 destination">
         <div class="container">
