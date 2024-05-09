@@ -334,7 +334,7 @@
                         <div class="card-body d-flex flex-column justify-content-between">
                             <h5 class="card-title">Jebel Um Ad Dami Hiking Tour</h5>
                             <p class="card-text">Jabel Um Ad Dami is the highest peak in Jordan (1854 metres above sea level) and is located close to the border of Saudi Arabia. This is a fantastic hike with panoramic views at the summit.</p>
-                            <a href="jabl2.php" class="btn btn-primary align-self-center">Details</a>
+                            <a href="jabel2New.jpeg" class="btn btn-primary align-self-center">Details</a>
                         </div>
                     </div>
                 </div>
